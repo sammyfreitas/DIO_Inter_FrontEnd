@@ -1,25 +1,27 @@
 # Inter Frontend Developer
 https://web.dio.me/track/5539dc71-8d2e-4c0b-8a0e-425fc063563d
----------------------------------------------------------------------
- Intermediário
-肋 99 hrs
----------------------------------------------------------------------
+<div align="center">
+	<img src="badge.webp" alt="Bootcamp Logo" style="width: 200px" /> 
 
-<br>Olá Dev, no Bootcamp Inter Frontend Developer você aprenderá sobre React - uma das principais tecnologias utilizadas pelo Inter, que é uma das maiores e mais completas plataformas digitais de serviços financeiros e não financeiros do Brasil. Essa é a sua chance de progredir na sua carreira em desenvolvimento de software! O Órbi Conecta é um dos principais hubs de inovação do Brasil e o Órbi Academy Techboost, sendo um dos maiores programas brasileiros de formação em carreiras de tecnologia e distribuirá mais de 130 mil bolsas de estudo até 2022, impactando toda a comunidade tech brasileira.
----------------------------------------------------------------------
-	ATIVIDADES * MENTORIA * FÓRUM * DEVS * CERTIFICADO
----------------------------------------------------------------------
-	* 33 cursos * 3 desafios de projeto * 1 desafios de código * 5 lives
----------------------------------------------------------------------
+---------------------------------------------------------------------<br>
+ Intermediário<br>
+肋 99 hrs<br>
+---------------------------------------------------------------------<br>
+<br>Olá Dev, no Bootcamp Inter Frontend Developer você aprenderá sobre React - uma das principais tecnologias utilizadas pelo Inter, que é uma das maiores e mais completas plataformas digitais de serviços financeiros e não financeiros do Brasil. Essa é a sua chance de progredir na sua carreira em desenvolvimento de software! O Órbi Conecta é um dos principais hubs de inovação do Brasil e o Órbi Academy Techboost, sendo um dos maiores programas brasileiros de formação em carreiras de tecnologia e distribuirá mais de 130 mil bolsas de estudo até 2022, impactando toda a comunidade tech brasileira.<br>
+---------------------------------------------------------------------<br>
+	ATIVIDADES * MENTORIA * FÓRUM * DEVS * CERTIFICADO<br>
+---------------------------------------------------------------------<br>
+	* 33 cursos * 3 desafios de projeto * 1 desafios de código * 5 lives<br>
+---------------------------------------------------------------------<br>
 ## Conteúdo (42 atividades)
-* Curso: Boas-vindas ao Bootcamp Inter Frontend Developer 	|  Básico 			| 肋 1 hrs
-* Mentoria (Live): Mentoria #1: Aula Inaugural - Bootcamp 	| Kainã Barros/DIO - 20/12/2021 - 16:00 - 2 horas
-  Inter Frontend Developer 									|					|
-* Curso: Lógica de Programação Essencial 					|  Básico 			| 肋 4 hrs
-* Curso: Aprenda o que são Estrutura de Dados e Algoritmos 	|  Básico 			| 肋 2 hrs
-* Curso: Introdução ao Git e ao GitHub 						|  Básico 			| 肋 5 hrs
-* Curso: Projetos ágeis com SCRUM 							|  Intermediário 	| 肋 2 hrs
-* Desafio de projeto: Criando seu Primeiro Repositório no 	|  Básico 			| 肋 2 hrs
+* Curso: Boas-vindas ao Bootcamp Inter Frontend Developer 	|  Básico 			| 肋 1 hrs<br>
+* Mentoria (Live): Mentoria #1: Aula Inaugural - Bootcamp 	| Kainã Barros/DIO - 20/12/2021 - 16:00 - 2 horas<br>
+  Inter Frontend Developer <br>									|					|
+* Curso: Lógica de Programação Essencial 					|  Básico 			| 肋 4 hrs<br>
+* Curso: Aprenda o que são Estrutura de Dados e Algoritmos 	|  Básico 			| 肋 2 hrs<br>
+* Curso: Introdução ao Git e ao GitHub 						|  Básico 			| 肋 5 hrs<br>
+* Curso: Projetos ágeis com SCRUM 							|  Intermediário 	| 肋 2 hrs<br>
+* Desafio de projeto: Criando seu Primeiro Repositório no 	|  Básico 			| 肋 2 hrs<br>
   GitHub Para Compartilhar Seu Progresso 					|					|
 * Mentoria (Live): Mentoria #2: Como ser o próximo 			| Vicente Bezerra/Inter - 11/01/2022 - 19:00 - 2 horas
   contratado pelo INTER 									|					|
@@ -61,7 +63,7 @@ https://web.dio.me/track/5539dc71-8d2e-4c0b-8a0e-425fc063563d
   NodeJS em um Front-end com Experts do INTER				|					|
 * Desafio de projeto: Integrando um Backend em Node.js com 	|  Avançado		| 肋 1 hrs
   um Frontend em React para um E-commerce					|					|
-
+</div>
 
 <br><br><br><br>
 🤝 Contribuindo Este repositório foi criado para fins de estudo, então contribua com ele. Se te ajudei de alguma forma, ficarei feliz em saber. E caso você conheça alguém que se identifique com o conteúdo, não deixe de compatilhar! 
